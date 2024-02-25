@@ -39,7 +39,35 @@
 - [x] Support python3                                  
 - [x] Support Termux
 - [x] Support Linux
-
+#### >>>INSTALLATION
+```
+pkg update && upgrade
+```
+```
+pkg install python && pkg install python2
+```
+```
+pkg install git
+```
+```
+pkg install golang
+```
+```
+pkg install ruby
+```
+```
+git clone https://github.com/MrxMilzu/PremiumTool
+```
+```
+pip install -r milzuganteng.txt
+```
+#### >>>RUNING SCRIPT
+```
+cd PremiumTool
+```
+```
+python premtool.py
+```
 
 <h2 align="center" >➷ Donate With</h2>
 <p align="center">
