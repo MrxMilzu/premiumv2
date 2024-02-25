@@ -18,11 +18,11 @@
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
-<p align="center">
+
 - [x] Support python3
 - [x] Support Login Cookie
 - [x] Support IP
-</p>
+
 
 #### ➷ Donate
 [![](https://img.shields.io/badge/DANA-Pay-white?logo=DANA&logoColor=white&labelColor=blue)](https://link.dana.id/qr/3u8s8cbp)
