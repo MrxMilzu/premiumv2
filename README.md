@@ -2,6 +2,10 @@
   ★«-« 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐓𝐨𝐨𝐥𝐬 »-»★
 </h1>
 <p align="center">
+  <img height="150px" width="300px" src="Foto/foto2.jpg">
+  <img height="150px" width="300px" src="Foto/foto1.jpg">
+</p>
+<p align="center">
 <img src="https://media1.tenor.com/m/oDI9G-MmSQsAAAAC/zenitsu-kimetsu-no-yaiba.gif" width="600" height="300">
 </p>
 <p align="center">
