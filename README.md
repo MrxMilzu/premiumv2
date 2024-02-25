@@ -19,11 +19,11 @@
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
 
-| FEATURE |🌱|
-| ------------- | ------------- |
-| Dowloader |✔️|
-| Text Pro  |✔️|
-| Photooxy  |✔️|
+| FEATURE |🌱|  | Support |✅|
+| ------------- | ------------- |  | ------------- | ------------- |
+| Dowloader |✔️|  | Termux |✔️|
+| Text Pro  |✔️|  | Linux |✔️|
+| Photooxy  |✔️|  | WSL |✔️|
 | Sound Of Text  |✔️|
 | Search  |✔️|
 | Random Gambar  |✔️|
