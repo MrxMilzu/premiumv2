@@ -19,8 +19,8 @@
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
 
-| FEATURE |🌱|  | Support |✅|
-| ------------- | ------------- |  | ------------- | ------------- |
+| FEATURE |🌱| Support |✅|
+| ------------- | ------------- | ------------- | ------------- |
 | Dowloader |✔️|  | Termux |✔️|
 | Text Pro  |✔️|  | Linux |✔️|
 | Photooxy  |✔️|  | WSL |✔️|
