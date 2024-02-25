@@ -17,6 +17,13 @@
 <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+License+Berbayar" alt="UwU">
 </h5>
 
+<h1 align="center"> >>PREMIUM FEATURE<< </h1>
+<p align="center">
+- [x] Support python3
+- [x] Support Login Cookie
+- [x] Support IP
+</p>
+
 #### ➷ Donate
 [![](https://img.shields.io/badge/DANA-Pay-white?logo=DANA&logoColor=white&labelColor=blue)](https://link.dana.id/qr/3u8s8cbp)
 [![](https://img.shields.io/badge/Shopee-Pay-white?logo=Shopee&logoColor=blue&labelColor=orange)](https://shp.ee/a8kx89x?smtt=0.0.9)
