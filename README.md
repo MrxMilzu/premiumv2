@@ -48,10 +48,10 @@
 <p align="center">
 <a href="https://shp.ee/a8kx89x?smtt=0.0.9"><img title="Shopee" src="https://img.shields.io/badge/Shopee-Orange?logo=Shopee&logoColor=Black&labelColor=white&style=for-the-badge"></a>
 </p>
-#### ➷ Subscribe YouTube Me
-[![](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?&logoColor=white&labelColor=purpel)](https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ)
+<h3 align="center">➷ Subscribe YouTube Me</h3>
+<a href="https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ"><img title="Youtube" src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?logo=YouTube&logoColor=White&labelColor=Black&style=for-the-badge"></a>
 
-##### ➷ Descripsi:
+<h3>➷ Descripsi:</h3>
 jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab
 
 ##### Anda patuh : kami segan.
