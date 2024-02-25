@@ -18,10 +18,26 @@
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
+* ## FEATURE LIST 💡
 
-- [x] Support python3
-- [x] Support Login Cookie
-- [x] Support IP
+| FEATURE |🌱|
+| ------------- | ------------- |
+| Dowloader |✔️|
+| Text Pro  |✔️|
+| Photooxy  |✔️|
+| Sound Of Text  |✔️|
+| Search  |✔️|
+| Random Gambar  |✔️|
+| Game  |✔️|
+| Maker |✔️|
+| Link Short  |✔️|
+| Information |✔️|
+| Emoji  |✔️|
+| Tools  |✔️|
+| Islamic  |✔️|
+- [x] Support python3                                  
+- [x] Support Termux
+- [x] Support Linux
 
 
 #### ➷ Donate
