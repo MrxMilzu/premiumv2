@@ -41,10 +41,10 @@
 - [x] Support Linux
 
 
-#### ➷ Donate
+<h3 align="center" >➷ Donate With
 [![](https://img.shields.io/badge/DANA-Pay-white?logo=DANA&logoColor=white&labelColor=blue)](https://link.dana.id/qr/3u8s8cbp)
 [![](https://img.shields.io/badge/Shopee-Pay-white?logo=Shopee&logoColor=blue&labelColor=orange)](https://shp.ee/a8kx89x?smtt=0.0.9)
-
+</h3>
 #### ➷ Subscribe YouTube Me
 [![](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?&logoColor=white&labelColor=purpel)](https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ)
 
