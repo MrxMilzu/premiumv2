@@ -57,6 +57,6 @@
 ## ``jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab``
 
 
-##### Anda patuh : kami segan.
-##### Anda rusuh : kami beban.
+##### ''Anda patuh : kami segan.''
+##### ''Anda rusuh : kami beban.''
 
