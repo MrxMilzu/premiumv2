@@ -21,19 +21,20 @@
 
 | FEATURE |🌱| Support |✅|
 | ------------- | ------------- | ------------- | ------------- |
-| Dowloader |✔️| Termux |✔️|
-| Text Pro  |✔️| Linux |✔️|
-| Photooxy  |✔️| WSL |✔️|
-| Sound Of Text  |✔️|
-| Search  |✔️|
-| Random Gambar  |✔️|
-| Game  |✔️|
-| Maker |✔️|
-| Link Short  |✔️|
-| Information |✔️|
-| Emoji  |✔️|
-| Tools  |✔️|
-| Islamic  |✔️|
+| Auto Follower Instagram |✔️| Termux |✔️|
+| Auto Follower Tiktok  |✔️| Linux |✔️|
+| Auto Like Facebook  |✔️| WSL |✔️|
+| Leaked DB V1  |✔️| Ubuntu |✔️|
+| Leaked DB V2  |✔️| Debian |✔️|
+| Bot OTP CALL WHATSAPP  |✔️| Parrot |✔️|
+| SMS UNLIMITED 24JAM  |✔️| OpenSSL |✘|
+| DEFACE HAXOR |✔️| Opensuse |✘|
+| DOXWEB DOXING WEBSITE  |✔️| Raspberry |✘|
+| DDOS V1 |✔️|
+| DDOS V2  |✔️|
+| FINDER CCTV  |✔️|
+| CRACK WIFI PASSWORD  |✔️|
+| DLL.  |✔️|
 - [x] Support python3                                  
 - [x] Support Termux
 - [x] Support Linux
