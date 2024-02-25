@@ -41,18 +41,21 @@
 - [x] Support Linux
 
 
-<h3 align="center" >➷ Donate With</h3>
+<h2 align="center" >➷ Donate With</h2>
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://shp.ee/a8kx89x?smtt=0.0.9"><img title="Shopee" src="https://img.shields.io/badge/Shopee-Orange?logo=Shopee&logoColor=Black&labelColor=white&style=for-the-badge"></a>
 </p>
-<h3 align="center">➷ Subscribe YouTube Me</h3>
-<a href="https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ"><img title="Youtube" src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?logo=YouTube&logoColor=White&labelColor=Black&style=for-the-badge"></a>
+<h2 align="center">➷ Subscribe YouTube Me</h2>
+<p align="center">
+<a href="https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ"><img title="Youtube" src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?logo=YouTube&logoColor=White&labelColor=Black&style=for-the-badge"></a></p>
 
 <h3>➷ Descripsi:</h3>
-jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab
+<div>
+  jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab
+</div>
 
 ##### Anda patuh : kami segan.
 ##### Anda rusuh : kami beban.
