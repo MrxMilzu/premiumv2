@@ -21,9 +21,9 @@
 
 | FEATURE |🌱| Support |✅|
 | ------------- | ------------- | ------------- | ------------- |
-| Dowloader |✔️|  | Termux |✔️|
-| Text Pro  |✔️|  | Linux |✔️|
-| Photooxy  |✔️|  | WSL |✔️|
+| Dowloader |✔️| Termux |✔️|
+| Text Pro  |✔️| Linux |✔️|
+| Photooxy  |✔️| WSL |✔️|
 | Sound Of Text  |✔️|
 | Search  |✔️|
 | Random Gambar  |✔️|
