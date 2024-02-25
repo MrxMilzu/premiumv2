@@ -17,3 +17,16 @@
 <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+License+Berbayar" alt="UwU">
 </h5>
 Script Premium Fitur Banyak ++ Yang dikembangkan oleh MxtQuest, Yang satu team dengan XNSCODE Lord Yayan Juan Alvaredo Dan Dapunta Chan
+#### ➷ Donate
+[![](https://img.shields.io/badge/DANA-Pay-white?logo=DANA&logoColor=white&labelColor=blue)](https://link.dana.id/qr/3u8s8cbp)
+[![](https://img.shields.io/badge/Shopee-Pay-white?logo=Shopee&logoColor=blue&labelColor=orange)](https://shp.ee/a8kx89x?smtt=0.0.9)
+
+#### ➷ Subscribe YouTube Me
+[![](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?&logoColor=white&labelColor=purpel)](https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ)
+
+##### ➷ Descripsi:
+jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab
+
+##### Anda patuh : kami segan.
+##### Anda rusuh : kami beban.
+
