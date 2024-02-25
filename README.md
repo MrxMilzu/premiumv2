@@ -45,7 +45,8 @@
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-blue?logo=Dana&logoColor=blue&labelColor=white&style=for-the-badge"></a>
 </p>
-<p align="center"><a href="https://shp.ee/a8kx89x?smtt=0.0.9"> <img title="Shopee" src"https://img.shields.io/badge/Shopee-Orange?logo=Shopee&style=for-the-badge" alt="Shopee"></a>
+<p align="center">
+<a href="https://shp.ee/a8kx89x?smtt=0.0.9"><img title="Shopee" src="https://img.shields.io/badge/Shopee-Orange?logo=Shopee&logoColor=Black&labelColor=white&style=for-the-badge"></a>
 </p>
 #### ➷ Subscribe YouTube Me
 [![](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?&logoColor=white&labelColor=purpel)](https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ)
