@@ -18,7 +18,7 @@
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
-
+<h5 align="center">
 | FEATURE |🌱| Support |✅|
 | ------------- | ------------- | ------------- | ------------- |
 | Auto Follower Instagram |✔️| Termux |✔️|
@@ -35,6 +35,7 @@
 | FINDER CCTV  |✔️|
 | CRACK WIFI PASSWORD  |✔️|
 | DLL.  |✔️|
+</h5>
 - [x] Support python3                                  
 - [x] Support Termux
 - [x] Support Linux
