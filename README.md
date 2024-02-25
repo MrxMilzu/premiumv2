@@ -18,7 +18,6 @@
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
-* ## FEATURE LIST 💡
 
 | FEATURE |🌱|
 | ------------- | ------------- |
