@@ -53,9 +53,9 @@
 <a href="https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ"><img title="Youtube" src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?logo=YouTube&logoColor=White&labelColor=Black&style=for-the-badge"></a></p>
 
 <h3>➷ Descripsi:</h3>
-<div>
-  jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab
-</div>
+
+## ``jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab``
+
 
 ##### Anda patuh : kami segan.
 ##### Anda rusuh : kami beban.
