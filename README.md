@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Version-0.2-7DCDE3?style=for-the-badge" alt="Version">
 <a href="https://github.com/MrxMilzu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MrxMilzu?logo=Github&color=green&style=flat-square"></a>
 </p>
-<p align="center">
+<h5 align="center">
 <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+License+Berbayar" alt="UwU">
-</p>
+</h5>
 Script Premium Fitur Banyak ++ Yang dikembangkan oleh MxtQuest, Yang satu team dengan XNSCODE Lord Yayan Juan Alvaredo Dan Dapunta Chan
