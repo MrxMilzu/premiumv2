@@ -65,6 +65,9 @@ git clone https://github.com/MrxMilzu/PremiumTool
 ```
 pip install -r milzuganteng.txt
 ```
+```
+pkg install wget
+```
 #### >>>RUNING SCRIPT
 ```
 cd PremiumTool
