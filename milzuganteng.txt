@@ -32,3 +32,4 @@ webbrowser
 init
 openai
 importlib
+wget
