@@ -73,7 +73,7 @@ pkg install wget
 cd PremiumTool
 ```
 ```
-python premtool.py
+python update2.py
 ```
 
 <h2 align="center" >➷ Donate With</h2>
