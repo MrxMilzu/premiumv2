@@ -1,3 +1,4 @@
+<h3> Script Telah Di Bungkam Harap Hub Admin Untuk pembelian </h3>
 <h1 align="center">
   ★«-« 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐓𝐨𝐨𝐥𝐬 »-»★
 </h1>
