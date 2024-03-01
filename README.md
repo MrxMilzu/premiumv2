@@ -74,7 +74,7 @@ pkg install wget
 cd PremiumTool
 ```
 ```
-python update2.py
+python update3.py
 ```
 
 <h2 align="center" >➷ Donate With</h2>
