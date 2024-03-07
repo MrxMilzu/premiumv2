@@ -65,7 +65,10 @@ pkg install ruby
 git clone https://github.com/MrxMilzu/PremiumTool
 ```
 ```
-pip install -r milzuganteng.txt
+pip install -r module1.txt
+```
+```
+pip install -r module2.txt
 ```
 ```
 pkg install wget
@@ -94,6 +97,6 @@ python update3.py
 ## ``jangan salah gunakan scrip ini.jika disalah gunakan kami author tidak akan bertanggung jawab``
 
 
-##### ''Anda patuh : kami segan.''
-##### ''Anda rusuh : kami beban.''
-
+##### ''Anda hormat : kami segan.''
+##### ''Anda rusuh : kami bunkam.''
+#''Peringatan keras yang recode atau Membagikan apikey decrypt sc ini secara gratis maka akan Dibunkam''
