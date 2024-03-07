@@ -1,6 +1,5 @@
-<h3> Script Telah Di Bungkam Harap Hub Admin Untuk pembelian </h3>
 <h1 align="center">
-  ★«-« 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐓𝐨𝐨𝐥𝐬 »-»★
+  ★«-« 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐓𝐨𝐨𝐥𝐬 V2 »-»★
 </h1>
 <p align="center">
   <img height="300px" width="300px" src="Foto/foto2.jpg">
