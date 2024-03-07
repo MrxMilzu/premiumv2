@@ -13,7 +13,7 @@
 </p>
 <p align="center">
 <a href="https://t.me/Execvy"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white&style=flat-square"></a>
-<a href="https://wa.me/62831"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=greed&labelColor=white&style=flat-square"></a>
+<a href="https://wa.me/6283185088407"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=greed&labelColor=white&style=flat-square"></a>
 <a href="https://web.facebook.com/profile.php?id=100071637038126"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white&style=flat-square"></a>
 <a href="https://deno.land" target="_blank">
 <img src="https://img.shields.io/badge/Version-0.2-7DCDE3?style=for-the-badge" alt="Version">
