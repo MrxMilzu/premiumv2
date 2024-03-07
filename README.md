@@ -99,4 +99,4 @@ python update3.py
 
 ##### ''Anda hormat : kami segan.''
 ##### ''Anda rusuh : kami bunkam.''
-#''Peringatan keras yang recode atau Membagikan apikey decrypt sc ini secara gratis maka akan Dibunkam''
+# ''Peringatan keras yang recode atau Membagikan apikey decrypt sc ini secara gratis maka akan Dibunkam''
