@@ -1,0 +1,16 @@
+google
+bs4
+requests
+random
+datetime
+urllib
+faker
+json
+subprocess
+licensing
+rich
+webbrowser
+init
+openai
+importlib
+wget
