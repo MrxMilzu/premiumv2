@@ -9,10 +9,10 @@
 <img src="https://media1.tenor.com/m/oDI9G-MmSQsAAAAC/zenitsu-kimetsu-no-yaiba.gif" width="600" height="300">
 </p>
 <p align="center">
-<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Ingin+License+Hub+MxtQuest" alt="UwU">
+<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=License+Dijual+Beli+Sama+MrxMilzx" alt="UwU">
 </p>
 <p align="center">
-<a href="https://web.facebook.com/profile.php?id=100071637038126"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white&style=flat-square"></a>
+<a href="https://t.me/extremely"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white&style=flat-square"></a>
 <a href="https://web.facebook.com/profile.php?id=100071637038126"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=greed&labelColor=white&style=flat-square"></a>
 <a href="https://web.facebook.com/profile.php?id=100071637038126"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white&style=flat-square"></a>
 <a href="https://deno.land" target="_blank">
