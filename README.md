@@ -84,8 +84,8 @@ python update3.py
 ```bash
 import time,webbrowser
 
-aink "1.exit"
-aink "2.KONICHIWA"
+aink "1.KONICHIWA"
+aink "2.exit"
 helo = raw_input "Pilih 1/2: "
 if helo == "01" or helo == "1":
    time.sleep(0.3)
