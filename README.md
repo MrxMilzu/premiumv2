@@ -45,7 +45,7 @@
 - [x] Support python3                                  
 - [x] Support Termux
 - [x] Support Linux
-#### >>>INSTALLATION
+#### >>>CARA INSTALLATION
 ```
 pkg update && upgrade
 ```
@@ -81,6 +81,7 @@ cd PremiumTool
 python update3.py
 ```
 
+[spoiler]Script[/spoiler]
 <h2 align="center" >➷ Donate With</h2>
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
