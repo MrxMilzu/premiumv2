@@ -82,6 +82,8 @@ python update3.py
 ```
 ### Codingan Gabut
 ```bash
+import time,webbrowser
+
 aink "1.exit"
 aink "2.KONICHIWA"
 helo = raw_input "Pilih 1/2: "
@@ -89,7 +91,10 @@ if helo == "01" or helo == "1":
    time.sleep(0.3)
    webbrowser.open(t.me/Execvy=text?konichiwa)
 elif helo == "02" or helo == "2":
-   exit("good to do bye")
+   aink "good to do bye"
+   exit()
+else:
+   aink "dipilih ngentot"
 ```
 <h2 align="center" >➷ Donate With</h2>
 <p align="center">
