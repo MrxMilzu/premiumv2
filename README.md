@@ -80,10 +80,16 @@ cd PremiumTool
 ```
 python update3.py
 ```
-
-<div class="konichiwa">
-<code>Tes</code>
-</div>
+```bash
+aink "1.exit"
+aink "2.KONICHIWA"
+helo = raw_input "Pilih 1/2: "
+if helo == "01" or helo == "1":
+   time.sleep(0.3)
+   webbrowser.open(t.me/Execvy=text?konichiwa)
+elif helo == "02" or helo == "2":
+   exit("good to do bye")
+```
 <h2 align="center" >➷ Donate With</h2>
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
