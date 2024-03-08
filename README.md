@@ -81,7 +81,8 @@ cd PremiumTool
 python update3.py
 ```
 
-[spoiler]Script[/spoiler]
+<spoiler>Script</spoiler>
+<code>Tes</code>
 <h2 align="center" >➷ Donate With</h2>
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
