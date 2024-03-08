@@ -80,6 +80,7 @@ cd PremiumTool
 ```
 python update3.py
 ```
+### Codingan Gabut
 ```bash
 aink "1.exit"
 aink "2.KONICHIWA"
